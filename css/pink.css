@@ -1,0 +1,14 @@
+body {
+    background: url("../img/pink.jpg");
+    background-attachment: fixed;
+    background-size: 80%;
+  } 
+  #logo {
+    background: #d352bd;
+  }
+  #menu ul li:hover {
+    background: #a1358f;
+  }
+  .button-more {
+    background: #d352bd;
+  }

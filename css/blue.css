@@ -1,0 +1,14 @@
+body {
+    background: url("../img/blue.jpg");
+    background-attachment: fixed;
+    background-size: 80%;
+  }
+  #logo {
+    background: #1d7fff;
+  }
+  #menu ul li:hover {
+    background: #1355ac;
+  }
+  .button-more {
+    background: #1d7fff;
+  }
